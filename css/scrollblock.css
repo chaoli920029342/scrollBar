@@ -1,0 +1,20 @@
+/*滚动条样式 */
+.jscroll-c{top: 0px; z-index: 9999; zoom: 1; position: relative;overflow:hidden;}
+.jscroll-e{height: 100%; top: 0px; right: 0; -moz-user-select: none; position: absolute; overflow: hidden; z-index: 10000; background: url(http://static.emoney.cn/www/emfastock/img/scrollbarblock2.gif) -100px 0 repeat-y;}
+.jscroll-u{position: absolute; top: 0px; width: 100%; left: 0; overflow: hidden; background: trasparent;}
+.jscroll-h{position: absolute;left: 0px; -moz-user-select: none; border: 0; overflow: hidden; 
+           text-align: center;background-color:#616161;}
+
+.jscroll-bart{width: 11px; height: 6px; background: url(img/scrollbarblock2.gif?v=0511) no-repeat -1px -1px; overflow: hidden;}
+.jscroll-h-i{width: 13px; height: 5px; background: url(img/scrollbarblock2.gif?v=0511) repeat-y -16px top; overflow: hidden;}
+.jscroll-h-s{width: 13px; height: 100%; background: url(img/scrollbarblock2.gif?v=0511) no-repeat -52px center; overflow: hidden;}
+.jscroll-barb{width: 11px; height: 6px; background: url(img/scrollbarblock2.gif?v=0511) no-repeat -1px -10px; overflow: hidden;}
+
+/*.jscroll-bart{width: 11px; height: 6px; overflow: hidden;}
+.jscroll-h-i{width: 13px; height: 5px; overflow: hidden;}
+.jscroll-h-s{width: 13px; height: 100%;  overflow: hidden;}
+.jscroll-barb{width: 11px; height: 6px; overflow: hidden;}*/
+.jscroll-d{position: absolute; bottom: 0px; width: 100%; left: 0; overflow: hidden; background: trasparent;}
+.scroll-pane{ margin-left:5px;}
+/*滚动条样式 */
+
